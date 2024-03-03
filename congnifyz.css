@@ -1,0 +1,34 @@
+
+.bg-container{
+    background:linear-gradient(to left,#00feb0,#5b548a);
+    background-size:cover;
+    height:120vh;
+}
+.heading{
+    color: #ff697e;
+    font-size:38px;
+    font-weight:700;
+    padding-bottom:20px;
+}
+.heading1{
+    color:blue;
+    font-size:38px;
+    font-weight:700;
+    padding-top:10px;
+}
+.paragraph{
+    color: #fff;
+    font-size:18px;
+    font-weight:700;
+    padding-left:30px;
+}
+.img1{
+    height:400px;
+    width:400px;
+    border-radius:38px;
+}
+
+.input{
+    width:25vw;
+    height:7vh;
+}
